@@ -1,0 +1,61 @@
+@media all and (max-width: 589px)
+{
+    aside
+    {
+        width: auto;
+        align-items: center;
+        padding-right: 2%;
+        padding-left: 2%;
+        margin: 0;
+        float: none;
+    }
+
+    video {
+    	width: 80%;
+		height: 80%;
+    }
+
+    nav li {
+    	display: block;
+    	margin: 0;
+    	margin-left: 31%; 
+    	padding-right: 40%;
+    	
+    }
+
+    nav a {
+    	font-size: 100%;
+    	padding: auto;
+    	padding-right: 10%;
+
+    }
+
+    nav a:hover {
+    	display: unset;
+
+    }
+
+    h2 {
+
+    }
+
+    .descrip_acteurs {
+    	text-align: center;
+		width: 49%;
+		display: inline-table;
+		text-justify : justify;
+    }
+
+    #presentation_serie {
+    	padding-left: 20%;
+    	padding-right: 20%;
+    }
+
+    .diaporama
+    {
+	display: none;
+	
+
+    
+    }
+}
